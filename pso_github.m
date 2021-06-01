@@ -57,21 +57,13 @@ end
 
     
     
-% obs.x_obs = [15 30 10 ];
-% obs.y_obs = [35 20 5 ];
-% obs.w_obs = [5 20 10 ];
-% obs.h_obs = [10 13 20];
-% obs.rx = 4;
-% obs.ry = 4;
-% 
-% res = .01;
 
 
 
 %% Defining pso parameters
 nPop = 500;
 alpha = 10000;
-NP = 6; % Number of points
+NP = 2; % Number of points
 
 VarSize = 2;
 

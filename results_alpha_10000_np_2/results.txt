@@ -1,0 +1,1 @@
+n_pop = 500	 Best Cost = 9831.809: Risk Factor = 0.0033636
