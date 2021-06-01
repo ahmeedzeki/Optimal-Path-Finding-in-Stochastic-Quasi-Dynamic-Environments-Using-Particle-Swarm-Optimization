@@ -1,0 +1,5 @@
+n_pop = 50	 Best Cost = 6787.7297: Risk Factor = 7.3918
+n_pop = 100	 Best Cost = 6788.6513: Risk Factor = 7.1755
+n_pop = 150	 Best Cost = 5887.7493: Risk Factor = 6.989
+n_pop = 200	 Best Cost = 6067.192: Risk Factor = 8.2889
+n_pop = 250	 Best Cost = 6042.8261: Risk Factor = 7.3881

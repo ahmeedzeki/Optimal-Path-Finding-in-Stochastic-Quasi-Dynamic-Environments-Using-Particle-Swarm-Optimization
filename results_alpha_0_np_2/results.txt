@@ -1,0 +1,17 @@
+n_pop = 50	 Best Cost = 10233.5722: Risk Factor = 14.4057
+n_pop = 100	 Best Cost = 8760.5627: Risk Factor = 20.9589
+n_pop = 150	 Best Cost = 8685.4173: Risk Factor = 21.637
+n_pop = 200	 Best Cost = 8616.0231: Risk Factor = 25.2633
+n_pop = 250	 Best Cost = 8602.1381: Risk Factor = 22.4232
+n_pop = 300	 Best Cost = 8633.4388: Risk Factor = 24.9765
+n_pop = 350	 Best Cost = 8612.5091: Risk Factor = 21.4757
+n_pop = 400	 Best Cost = 8614.6729: Risk Factor = 23.2809
+n_pop = 450	 Best Cost = 8591.2195: Risk Factor = 26.6086
+n_pop = 500	 Best Cost = 8587.15: Risk Factor = 24.7384
+n_pop = 300	 Best Cost = 8589.5028: Risk Factor = 21.1876
+n_pop = 300	 Best Cost = 8589.5028: Risk Factor = 21.1876
+n_pop = 300	 Best Cost = 8575.2266: Risk Factor = 23.251
+n_pop = 300	 Best Cost = 8633.4388: Risk Factor = 24.9765
+n_pop = 500	 Best Cost = 8553.8274: Risk Factor = 32.1705
+n_pop = 500	 Best Cost = 8531.527: Risk Factor = 24.3067
+n_pop = 500	 Best Cost = 8587.15: Risk Factor = 24.7384
